@@ -5,10 +5,16 @@ version 1.8.6
 You must download this engine in order to compile this project or run the existing binary.
 OS: Unix
 ### Controls
-[space - spell attack]
-[up arrow - melee attack]
+[space] - spell attack
 
-[z - up]
-[s - down]
-[q - left]
-[d - right]
+[up arrow] - melee attack
+
+
+[z] - up
+
+[s] - down
+
+[q] - left
+
+[d] - right
+
